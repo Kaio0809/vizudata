@@ -17,7 +17,7 @@
 
 [tarefa1_dom.html](basic/tarefa1_dom.html) — acrescentar um elemento e encontrá-lo pelo console do browser<br>
 [tarefa2_css.html](basic/tarefa2_css.html) — conflito entre seletores de classe e de id ([style04.css](basic/style04.css))<br>
-[tarefa3_svg.html](basic/tarefa3_svg.html) — desenhar um gráfico de barras em SVG puro<br>
+[tarefa3_svg.html](basic/barras.html) — desenhar um gráfico de barras em SVG puro<br>
 
 As instruções de cada micro-tarefa estão em comentários dentro do próprio
 arquivo. Abra o arquivo no editor de texto e no browser ao mesmo tempo.
